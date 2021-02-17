@@ -1,3 +1,3 @@
 # DataVisualization
 
-Blog for the class
+Blog for the coursera class [Data Visualization]
